@@ -1,10 +1,16 @@
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;About Me - Acerca de Mi
 
 💡 &nbsp; I like systems, problems and developing solutions.\
 🎓 &nbsp;I'm a recent graduate of 4Geeks Academy Full-Stack Developer Program.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence and Systems Design.\
 ✍️ &nbsp;In my free time, I pursue Teaching and Literature as hobbies/side hustles.\
 ✉️ &nbsp;You can shoot me an email at beltranliscano@gmail.com! I'll try to respond as soon as I can.
+
+💡 &nbsp; Me gustan los sistemas, los problemas y el desarrollo de soluciones.\
+🎓 &nbsp;Soy recién graduado del programa de Full-Stack Software Developer de 4Geeks Academy.\
+🌱 &nbsp;Estoy aprendiendo acerca de Inteligencia Artificial y Diseño de Sistemas.\
+✍️ &nbsp;En mi tiempo libre, me dedico a la enseñanza y a la literatura como hobbie/segundo trabajo.\
+✉️ &nbsp;Me puedes contactar mandandome un email a beltranliscano@gmail.com! Trataré de responderte lo más pronto posible.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
